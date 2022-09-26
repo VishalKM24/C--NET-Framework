@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\bin\Debug\LoopTest.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\bin\Debug\LoopTest.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\bin\Debug\SimpleLoop.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\bin\Debug\SimpleLoop.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\obj\Debug\LoopTest.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\obj\Debug\LoopTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\obj\Debug\LoopTest.csproj.CopyComplete
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\obj\Debug\LoopTest.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\LoopTest\obj\Debug\LoopTest.pdb

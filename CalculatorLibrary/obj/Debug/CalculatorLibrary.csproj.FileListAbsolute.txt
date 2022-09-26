@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\bin\Debug\CalculatorDataLayer.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\bin\Debug\Sum.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\bin\Debug\SimpleLoop.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\bin\Debug\CalculatorDataLayer.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\bin\Debug\Sum.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\bin\Debug\Sum.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\bin\Debug\SimpleLoop.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CopyComplete
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb

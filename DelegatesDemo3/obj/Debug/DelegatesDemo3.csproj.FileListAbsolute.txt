@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegatesDemo3\bin\Debug\DelegatesDemo3.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegatesDemo3\bin\Debug\DelegatesDemo3.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegatesDemo3\bin\Debug\DelegatesDemo3.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegatesDemo3\obj\Debug\DelegatesDemo3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegatesDemo3\obj\Debug\DelegatesDemo3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegatesDemo3\obj\Debug\DelegatesDemo3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegatesDemo3\obj\Debug\DelegatesDemo3.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegatesDemo3\obj\Debug\DelegatesDemo3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorDataLayer\bin\Debug\CalculatorDataLayer.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorDataLayer\bin\Debug\CalculatorDataLayer.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorDataLayer\obj\Debug\CalculatorDataLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorDataLayer\obj\Debug\CalculatorDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorDataLayer\obj\Debug\CalculatorDataLayer.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculatorDataLayer\obj\Debug\CalculatorDataLayer.pdb

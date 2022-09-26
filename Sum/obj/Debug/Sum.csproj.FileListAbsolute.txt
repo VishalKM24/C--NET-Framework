@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\Sum\bin\Debug\Sum.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\Sum\bin\Debug\Sum.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\Sum\bin\Debug\Sum.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\Sum\bin\Debug\SimpleLoop.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\Sum\bin\Debug\SimpleLoop.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\Sum\obj\Debug\Sum.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\Sum\obj\Debug\Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\Sum\obj\Debug\Sum.csproj.CopyComplete
+C:\Users\Admin\Desktop\Framework-Projects\Sum\Sum\obj\Debug\Sum.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\Sum\obj\Debug\Sum.pdb

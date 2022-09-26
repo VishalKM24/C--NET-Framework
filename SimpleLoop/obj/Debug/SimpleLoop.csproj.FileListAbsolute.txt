@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\SimpleLoop\bin\Debug\SimpleLoop.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\SimpleLoop\bin\Debug\SimpleLoop.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\SimpleLoop\obj\Debug\SimpleLoop.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\SimpleLoop\obj\Debug\SimpleLoop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\SimpleLoop\obj\Debug\SimpleLoop.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\SimpleLoop\obj\Debug\SimpleLoop.pdb
