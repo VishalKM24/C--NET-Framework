@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegateEg1\bin\Debug\DelegateEg1.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegateEg1\bin\Debug\DelegateEg1.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegateEg1\bin\Debug\DelegateEg1.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegateEg1\obj\Debug\DelegateEg1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegateEg1\obj\Debug\DelegateEg1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegateEg1\obj\Debug\DelegateEg1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegateEg1\obj\Debug\DelegateEg1.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\DelegateEg1\obj\Debug\DelegateEg1.pdb

@@ -26,6 +26,40 @@ namespace DelegatesDemo3
 
             ProcessManager.ShowProcessList(FilterBySize); // using delegate
 
+            // Anonymous Delegates
+            ProcessManager.ShowProcessList(delegate(Process p)
+                {
+                    return p.WorkingSet64 >= 50 * 1024 * 1024;
+                });
+
+
+            // Lamda - Light weight syntax for Anonymous Delegates
+            // Statement based lamda
+            ProcessManager.ShowProcessList( (Process p) =>
+            {
+                return p.WorkingSet64 >= 50 * 1024 * 1024;
+            });
+
+            // expression based lamda function
+            ProcessManager.ShowProcessList((Process p) => p.WorkingSet64 >= 50 * 1024 * 1024);
+
+            // Light weight based expression based on lamda function
+            ProcessManager.ShowProcessList( p => p.WorkingSet64 >= 50 * 1024 * 1024);
+
+            List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            var sum = numbers.Sum();
+
+            var sum1 = numbers.Where(EvenNo).Sum();
+            var sum2 = numbers.Where(n => n % 2 == 0).Sum();
+
+            Console.WriteLine($"Sum: {sum} \nSum1: {sum1} \nSum2: {sum2}");
+
+
+        }
+
+        static bool EvenNo(int n)
+        {
+            return n % 2 == 0;
         }
 
         static bool FilterByNone(Process p)
