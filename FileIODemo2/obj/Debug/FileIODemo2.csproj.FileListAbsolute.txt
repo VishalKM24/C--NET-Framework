@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\FileIODemo2\bin\Debug\FileIODemo2.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\FileIODemo2\bin\Debug\FileIODemo2.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\FileIODemo2\bin\Debug\FileIODemo2.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\FileIODemo2\obj\Debug\FileIODemo2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\FileIODemo2\obj\Debug\FileIODemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\FileIODemo2\obj\Debug\FileIODemo2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\FileIODemo2\obj\Debug\FileIODemo2.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\FileIODemo2\obj\Debug\FileIODemo2.pdb
