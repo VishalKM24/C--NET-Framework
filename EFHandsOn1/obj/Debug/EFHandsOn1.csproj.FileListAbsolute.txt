@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\bin\Debug\EFHandsOn1.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\bin\Debug\EFHandsOn1.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\bin\Debug\EFHandsOn1.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\obj\Debug\EFHandsOn1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\obj\Debug\EFHandsOn1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\obj\Debug\EFHandsOn1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\obj\Debug\EFHandsOn1.csproj.CopyComplete
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\obj\Debug\EFHandsOn1.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\obj\Debug\EFHandsOn1.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\obj\Debug\EFHandsOn1.Migrations.InitialCreate.resources
+C:\Users\Admin\Desktop\Framework-Projects\Sum\EFHandsOn1\obj\Debug\EFHandsOn1.csproj.GenerateResource.cache

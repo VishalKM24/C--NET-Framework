@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\POSApplication\bin\Release\POSApplication.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\POSApplication\bin\Release\POSApplication.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\POSApplication\bin\Release\POSApplication.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\POSApplication\obj\Release\POSApplication.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\POSApplication\obj\Release\POSApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\POSApplication\obj\Release\POSApplication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\POSApplication\obj\Release\POSApplication.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\POSApplication\obj\Release\POSApplication.pdb

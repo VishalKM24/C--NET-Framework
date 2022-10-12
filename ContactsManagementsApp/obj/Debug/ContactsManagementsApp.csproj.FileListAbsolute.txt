@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactsManagementsApp\bin\Debug\ContactsManagementsApp.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactsManagementsApp\bin\Debug\ContactsManagementsApp.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactsManagementsApp\bin\Debug\ContactsManagementsApp.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactsManagementsApp\obj\Debug\ContactsManagementsApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactsManagementsApp\obj\Debug\ContactsManagementsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactsManagementsApp\obj\Debug\ContactsManagementsApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactsManagementsApp\obj\Debug\ContactsManagementsApp.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactsManagementsApp\obj\Debug\ContactsManagementsApp.pdb

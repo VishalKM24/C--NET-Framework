@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\IndexerDemo\bin\Debug\IndexerDemo.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\IndexerDemo\bin\Debug\IndexerDemo.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\IndexerDemo\bin\Debug\IndexerDemo.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\IndexerDemo\obj\Debug\IndexerDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\IndexerDemo\obj\Debug\IndexerDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\IndexerDemo\obj\Debug\IndexerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\IndexerDemo\obj\Debug\IndexerDemo.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\IndexerDemo\obj\Debug\IndexerDemo.pdb

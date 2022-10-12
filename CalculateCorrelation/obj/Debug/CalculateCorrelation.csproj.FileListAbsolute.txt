@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculateCorrelation\bin\Debug\CalculateCorrelation.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculateCorrelation\bin\Debug\CalculateCorrelation.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculateCorrelation\bin\Debug\CalculateCorrelation.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculateCorrelation\bin\Debug\CorrelationEngine.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculateCorrelation\bin\Debug\CorrelationEngine.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculateCorrelation\obj\Debug\CalculateCorrelation.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculateCorrelation\obj\Debug\CalculateCorrelation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculateCorrelation\obj\Debug\CalculateCorrelation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculateCorrelation\obj\Debug\CalculateCorrelation.csproj.CopyComplete
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculateCorrelation\obj\Debug\CalculateCorrelation.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculateCorrelation\obj\Debug\CalculateCorrelation.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculateCorrelation\bin\Debug\AI_DataLoader.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CalculateCorrelation\bin\Debug\AI_DataLoader.pdb

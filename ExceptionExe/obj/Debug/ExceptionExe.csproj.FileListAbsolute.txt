@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ExceptionExe\bin\Debug\ExceptionExe.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ExceptionExe\bin\Debug\ExceptionExe.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ExceptionExe\bin\Debug\ExceptionExe.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ExceptionExe\obj\Debug\ExceptionExe.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ExceptionExe\obj\Debug\ExceptionExe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ExceptionExe\obj\Debug\ExceptionExe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ExceptionExe\obj\Debug\ExceptionExe.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ExceptionExe\obj\Debug\ExceptionExe.pdb

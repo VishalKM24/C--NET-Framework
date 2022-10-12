@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactTestMain\bin\Debug\ContactTestMain.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactTestMain\bin\Debug\ContactTestMain.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactTestMain\bin\Debug\ContactTestMain.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactTestMain\bin\Debug\ContactsManagementsApp.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactTestMain\bin\Debug\ContactsManagementsApp.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactTestMain\bin\Debug\ContactsManagementsApp.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactTestMain\obj\Debug\ContactTestMain.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactTestMain\obj\Debug\ContactTestMain.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactTestMain\obj\Debug\ContactTestMain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactTestMain\obj\Debug\ContactTestMain.csproj.CopyComplete
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactTestMain\obj\Debug\ContactTestMain.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactTestMain\obj\Debug\ContactTestMain.pdb

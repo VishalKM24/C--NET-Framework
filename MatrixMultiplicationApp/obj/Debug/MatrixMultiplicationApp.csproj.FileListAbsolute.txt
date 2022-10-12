@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\MatrixMultiplicationApp\bin\Debug\MatrixMultiplicationApp.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\MatrixMultiplicationApp\bin\Debug\MatrixMultiplicationApp.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\MatrixMultiplicationApp\bin\Debug\MatrixMultiplicationApp.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\MatrixMultiplicationApp\obj\Debug\MatrixMultiplicationApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\MatrixMultiplicationApp\obj\Debug\MatrixMultiplicationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\MatrixMultiplicationApp\obj\Debug\MatrixMultiplicationApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\MatrixMultiplicationApp\obj\Debug\MatrixMultiplicationApp.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\MatrixMultiplicationApp\obj\Debug\MatrixMultiplicationApp.pdb

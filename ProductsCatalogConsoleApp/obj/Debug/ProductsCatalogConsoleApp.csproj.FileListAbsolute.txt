@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ProductsCatalogConsoleApp\bin\Debug\ProductsCatalogConsoleApp.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ProductsCatalogConsoleApp\bin\Debug\ProductsCatalogConsoleApp.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ProductsCatalogConsoleApp\bin\Debug\ProductsCatalogConsoleApp.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ProductsCatalogConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ProductsCatalogConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ProductsCatalogConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ProductsCatalogConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ProductsCatalogConsoleApp\obj\Debug\ProductsCatalogConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ProductsCatalogConsoleApp\obj\Debug\ProductsCatalogConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ProductsCatalogConsoleApp\obj\Debug\ProductsCatalogConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ProductsCatalogConsoleApp\obj\Debug\ProductsCatalogConsoleApp.csproj.CopyComplete
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ProductsCatalogConsoleApp\obj\Debug\ProductsCatalogConsoleApp.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ProductsCatalogConsoleApp\obj\Debug\ProductsCatalogConsoleApp.pdb

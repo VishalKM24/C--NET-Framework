@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\AI_DataLoader\bin\Debug\AI_DataLoader.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\AI_DataLoader\bin\Debug\AI_DataLoader.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\AI_DataLoader\obj\Debug\AI_DataLoader.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\AI_DataLoader\obj\Debug\AI_DataLoader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\AI_DataLoader\obj\Debug\AI_DataLoader.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\AI_DataLoader\obj\Debug\AI_DataLoader.pdb

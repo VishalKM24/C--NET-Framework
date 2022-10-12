@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactManagement.ConsoleApp1\bin\Debug\ContactManagement.ConsoleApp1.exe.config
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactManagement.ConsoleApp1\bin\Debug\ContactManagement.ConsoleApp1.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactManagement.ConsoleApp1\bin\Debug\ContactManagement.ConsoleApp1.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactManagement.ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactManagement.ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactManagement.ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactManagement.ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactManagement.ConsoleApp1\obj\Debug\ContactManagement.ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactManagement.ConsoleApp1\obj\Debug\ContactManagement.ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactManagement.ConsoleApp1\obj\Debug\ContactManagement.ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactManagement.ConsoleApp1\obj\Debug\ContactManagement.ConsoleApp1.csproj.CopyComplete
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactManagement.ConsoleApp1\obj\Debug\ContactManagement.ConsoleApp1.exe
+C:\Users\Admin\Desktop\Framework-Projects\Sum\ContactManagement.ConsoleApp1\obj\Debug\ContactManagement.ConsoleApp1.pdb

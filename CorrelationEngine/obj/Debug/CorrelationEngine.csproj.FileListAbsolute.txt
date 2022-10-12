@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CorrelationEngine\bin\Debug\CorrelationEngine.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CorrelationEngine\bin\Debug\CorrelationEngine.pdb
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CorrelationEngine\obj\Debug\CorrelationEngine.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CorrelationEngine\obj\Debug\CorrelationEngine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CorrelationEngine\obj\Debug\CorrelationEngine.dll
+C:\Users\Admin\Desktop\Framework-Projects\Sum\CorrelationEngine\obj\Debug\CorrelationEngine.pdb
